@@ -10,15 +10,15 @@ Big Data and Distributed Computing: Projects that leverage big data technologies
 # Project Structure
 Each project in this repository follows a consistent structure for organisation:
 
-_README.md: Contains detailed information about the project, including its objectives, data sources, methodology, and results.
+* README.md: Contains detailed information about the project, including its objectives, data sources, methodology, and results.
 
-_ code/: Houses the codebase for the project. This directory is typically organised into subdirectories, each corresponding to a specific stage of the data science pipeline (e.g., data preprocessing, model development, and evaluation).
+* code/: Houses the codebase for the project. This directory is typically organised into subdirectories, each corresponding to a specific stage of the data science pipeline (e.g., data preprocessing, model development, and evaluation).
 
-_ data/: Contains the dataset(s) used in the project. In some cases, due to large file sizes, the data may be stored externally with instructions on how to obtain it.
+* data/: Contains the dataset(s) used in the project. In some cases, due to large file sizes, the data may be stored externally with instructions on how to obtain it.
 
-_ notebooks/: If Jupyter notebooks are used in the project, they will be stored here for easy exploration and experimentation.
+* notebooks/: If Jupyter notebooks are used in the project, they will be stored here for easy exploration and experimentation.
 
-_ images/: Contains images and visualisations generated during the project. These visuals help in understanding the data and results.
+* images/: Contains images and visualisations generated during the project. These visuals help in understanding the data and results.
 
 
 # Contributing
