@@ -36,7 +36,7 @@ Your contribution will be reviewed, and if it meets the project's guidelines, it
 
 Please ensure that your contributions adhere to the Contributor Covenant Code of Conduct.
 
-License
-This repository is licensed under the MIT License.  
+ 
+# This repository is licensed under the MIT License.  
 
-Happy data science exploring and contributing!
+#### Happy data science exploring and contributing!
