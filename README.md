@@ -1,11 +1,11 @@
 # Data-Science-projects
  In this repository, you will find a variety of data science projects covering a wide range of topics, such as:
  
-Machine Learning: Projects that involve the development and deployment of machine learning models for tasks like classification, regression, and clustering.
-Data Visualisation: Projects that focus on visualising data to gain insights and tell compelling stories through graphs, charts, and interactive dashboards.
-Natural Language Processing (NLP): Projects that deal with text data, including sentiment analysis, text classification, and language generation.
-Time Series Analysis: Projects that explore time-dependent data, forecasting, and anomaly detection.
-Big Data and Distributed Computing: Projects that leverage big data technologies like Apache Spark or Hadoop for large-scale data analysis.
+## Machine Learning: Projects that involve the development and deployment of machine learning models for tasks like classification, regression, and clustering.
+## Data Visualisation: Projects that focus on visualising data to gain insights and tell compelling stories through graphs, charts, and interactive dashboards.
+## Natural Language Processing (NLP): Projects that deal with text data, including sentiment analysis, text classification, and language generation.
+## Time Series Analysis: Projects that explore time-dependent data, forecasting, and anomaly detection.
+## Big Data and Distributed Computing: Projects that leverage big data technologies like Apache Spark or Hadoop for large-scale data analysis.
 
 # Project Structure
 Each project in this repository follows a consistent structure for organisation:
